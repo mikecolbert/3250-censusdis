@@ -1,0 +1,18 @@
+# hidden Mac file of cached metadata when Finder is used to browse folders
+.DS_Store
+Thumbs.db
+
+#VS Code workspace file
+.VSCode
+
+
+#Python dotenv file
+.env
+
+#Python virtual environment
+venv
+
+#Python
+__pycache__
+*.py[cod]
+*$py.class
