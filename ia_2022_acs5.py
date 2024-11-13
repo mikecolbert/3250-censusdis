@@ -1,7 +1,6 @@
 import censusdis.data as ced
 from censusdis.datasets import ACS5
 from censusdis import states
-
 import pandas as pd
 
 
